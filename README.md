@@ -1,4 +1,5 @@
 # Autoparts-ecommerce
+[Apasă aici pentru a vedea un Video Demo cu site-ul](https://youtube.com/linkul-tau-aici)
 
 Acesta este un magazin online de piese auto pe care l-am construit de la zero. Scopul principal al acestui proiect este aprofundarea conceptelor fundamentale din arhitectura web, interacțiunea dintre client și server, crearea și gestionarea bazelor de date.
 
@@ -22,3 +23,5 @@ Acesta este un magazin online de piese auto pe care l-am construit de la zero. S
 * Instalați un mediu de dezvoltare local (XAMPP).
 * Accesați phpMyAdmin, creați o bază de date cu numele "piese_auto_db" și importați fișierul sql care se află în repository.
 * Accesați proiectul din browser.
+
+[Apasă aici pentru a vedea un Video Demo cu site-ul](https://youtube.com/linkul-tau-aici)
