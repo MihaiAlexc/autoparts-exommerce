@@ -1,4 +1,4 @@
-# autoparts-exommerce
+# autoparts-ecommerce
 
 Acesta este un magazin online de piese auto pe care l-am contruit de la zero. Scopul principal al acestui proiect este aprofundarea conceptelor fundamentale din arhitectura web, interactiunea dintre client si server, crearea si gestionarea bazelor de date.
 
