@@ -9,7 +9,7 @@ Baza de date: MySQL, care manipuleaza datele.
 
   Functionalitatile Principale
 Sistem asincron pentru cosul de cumparaturi: Adaugarea produselor in cos si actualizarea interfetei se reralizeaza dinamic prin AJAX, fara anumite reincarcari de pagini.
-Filtrare dinamica in cascada: Modul de cautare al pieselor este bazat pe combatibilitatea cu autovehiculul clinetului care poate fi selectat dupa Marca -> Model -> An -> Motorizare).
+2.Filtrare dinamica in cascada: Modul de cautare al pieselor este bazat pe combatibilitatea cu autovehiculul clinetului care poate fi selectat dupa Marca -> Model -> An -> Motorizare).
 Creazrea unui cont: Sistem de gestiune a clientilor care include stocarea parolelor criptate (functia "password_hash").
 Organizarea modulare: Separarea codului repetitiv cum ar fi header-ul si footer-ul in fisiere distincte folosind functia "include" din PHP pentru a face codul mult mai usor de modificat.
 
